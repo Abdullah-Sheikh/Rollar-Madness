@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Roller Madness",
+"productVersion": "0.1",
+"dataUrl": "Rollar Madness.data.unityweb",
+"wasmCodeUrl": "Rollar Madness.wasm.code.unityweb",
+"wasmFrameworkUrl": "Rollar Madness.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
